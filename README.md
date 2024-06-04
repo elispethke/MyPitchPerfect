@@ -17,5 +17,4 @@ Pitch Perfect is an app that records a user’s voice and then plays the modulat
 2. Open `Pitch Perfect.xcodeproj` file in Xcode.
 3. Now you can build and run the app.
 
-## Licence
-This project is a part of Master Projects repository. For other projects and licensing information, please see [iOS Nanodegree Projects](https://github.com/rajanikantdeshmukh/iOS-Nanodegree-Projects).
+
